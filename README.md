@@ -1,2 +1,2 @@
 # Clasificarea Imaginilor Folosind Modelul Bag of Visual Words
-Proiect Vedere Artificiala prin care algoritmul determina daca intr-o imagine este sau nu e reprezentata o masina
+Proiect realizat in Matlab, prin care un sistem este antrenat pentru recunoasterea masinilor in imagini. Sunt oferite pentru antrenare exemple pozitive si negative, iar sistemul de clasificare antreneaza parametrii modelului Bag of Visual Words pentru recunoasterea masinilor. Proiect realizat in anul 3 de studii la cursul de Computer Vision, Conf. dr. Alexe Bogdan si Conf. dr. Ionescu Radu.
